@@ -32,4 +32,4 @@ npm run build
 The transformation logic is kept in `src/lib` so parsing, sorting, and transposition can be tested independently from the React UI. The UI is intentionally thin: it previews the two required outputs, lets the row order be changed, and supports CSV export without adding backend complexity.
 ## Additional UI notes
 
-The app includes a Tool page and an Approach page. The language toggle switches the interface and approach notes between English and Japanese.
+The app includes a Home page, Result page, and My Approach page. The language toggle switches the interface and approach notes between English and Japanese.
