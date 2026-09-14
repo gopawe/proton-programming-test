@@ -1,0 +1,7 @@
+node_modules/
+dist/
+_xlsx_unpacked/
+.DS_Store
+.env
+.env.local
+Test*.xlsx
